@@ -33,6 +33,6 @@ Run the application:
 streamlit run app.py
 
 👩‍🎓 Developed By
-Subithra
+Raja Seker
 
 Naan Mudhalvan Python Data Analytics Project - 2026
